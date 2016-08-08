@@ -35,9 +35,9 @@ Use this list as your keywords: java, snippet, solution
 ---------------------
 A snippet of text is an arbitray length of text pulled out from a larger body of text. A piece of text. An extract of text.
 
-We want you to find keywords in text, and extract the snippet of text that surrounds it. Use the code you wrote in problem one to find and highlight the keyword in the snippet.
+We want you to find keywords in body of text and extract the snippets of text that surrounds them. We like the keywords highlighted as well just like problem number one above.
 
-In our problem a snippet represents text up to 20 characters preceding the keyword, the keyword itself, and up to 20 characters following the keyword. Our problem then is:
+We are defining a snippet of text as up to 20 characters preceding the keyword, the keyword itself, and up to 20 characters following the keyword. Our problem then is:
 
 * _Given_: A textual payload for input processing and a library of keywords
 * _When_: A keyword is encountered in the textual payload as a word
