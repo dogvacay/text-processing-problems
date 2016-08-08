@@ -52,3 +52,7 @@ Example:
 Use this README as your input text. We have provided a Text version in this repo (TextProcessing.txt)
 
 Use this list as your keywords: java, snippet, solution
+
+
+Please ZIP up your solutions and email back. Or use your own github account.
+Please: Do not commit them here.
