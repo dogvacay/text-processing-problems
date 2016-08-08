@@ -1,3 +1,6 @@
+Please ZIP up your solutions and email back. Or use your own github account.
+Please: Do not commit them here.
+
 Text Processing Problems
 ========================
 
