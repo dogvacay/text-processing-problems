@@ -25,7 +25,7 @@ E.g.
 * _Input_: "I come from Redmond California"
 * _Output_: "I come from Redmond California"  
 
-Use this README file as your input text. Select all, copy, paste.
+Use this README as your input text. We have provided a Text version in this repo (TextProcessing.txt)
 
 Use this list as your keywords: java, snippet, solution
 
@@ -49,6 +49,6 @@ Example:
 * _Output Snippet_: "I am typing. Typing \<refers\> back to the days of"
 
 
-Use this README as your input text (select, copy, paste)
+Use this README as your input text. We have provided a Text version in this repo (TextProcessing.txt)
 
 Use this list as your keywords: java, snippet, solution
