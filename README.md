@@ -6,11 +6,9 @@ Text Processing Problems
 
 Please provide a solution in Java that meets the requirements of problems described below. Java 1.7 is preferred for now. Though if you wish to use Java 1.8, and use 1.8 features, please provide at least one solution that does not require 1.8 features. Document any assumptions you are making about inputs and outputs clearly. 
 
-Make the best programming choices as you would normally do for this assignment. The you'll be evaluated on your proficiency with the Java language, programming and design skills, pursuit of best practices, accuracy of solution, and code testability. 
+Make the best programming choices as you would normally do for this assignment. The types of skills you'll be evaluated on are your proficiency with the Java language, programming and design skills, pursuit of best practices, accuracy of solution, and code testability. Tests that prove your solutions work are a necessary deliverable given we want proof the solution works. 
 
-The tests that prove your solutions work are a necessary deliverable given we want proof the solution works. 
-
-Once you are ready with the solution, please zip the source set and share it via email. A short summary of your approach is welcome documentation. Good luck !
+Once you are ready with the solution, please zip the source set and share it via email. A short summary of your approach is welcome documentation. Good luck!
 
 ## FIRST PROBLEM
 
